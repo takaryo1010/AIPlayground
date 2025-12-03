@@ -1,4 +1,0 @@
-ignoredBuiltDependencies:
-  - node-pty
-  - protobufjs
-  - tree-sitter-bash
